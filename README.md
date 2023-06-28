@@ -12,7 +12,7 @@ Members:
 - Game Logic 
 - Object-Oriented Based Game
 - Linked Lists as Core Data Structure
-- Preview of The Games
+- Previews of The Game
 - A Quick Demo of Our Game
 
 ## Game Description
@@ -121,7 +121,7 @@ Similarly, when a card is removed from the game, the pointer is adjusted to bypa
 This dynamic behavior of adding and removing cards aligns well with the nature of card playing where the number of cards is uncertain and may change over time. Linked lists allow for efficient insertion and removal operations because they only require updating the pointers, rather than shifting or resizing the entire data structure. By using a linked list to represent the cards, this game can easily accommodate the uncertain number of cards and their constant addition and removal. The linked list structure provides a convenient way to maintain the sequence of the cards and facilitates various card-related operations within the game. Hence, this choice allows for the dynamic management of the cards which cannot be achieved by other static data structures.
 
 
-## Preview of the Games
+## Previews of the Game
 ### The landing page
 ![landing](https://github.com/STELLY-02/G26_Hackathon2/assets/116903730/b46db0df-acce-4937-90b8-9e60192d225a)
 
@@ -152,5 +152,17 @@ This dynamic behavior of adding and removing cards aligns well with the nature o
 ### Ending
 ![ending](https://github.com/STELLY-02/G26_Hackathon2/assets/116903730/16789c22-a8e4-4e51-a35d-e938bef95bcd)
 
+### Save and load function 
+#### Save at the end of game
+![Save](https://github.com/STELLY-02/G26_Hackathon2/assets/116903730/3460240a-b2eb-4f29-b572-3fc9bb868e0a)
+
+#### Load at the starting of game
+![load](https://github.com/STELLY-02/G26_Hackathon2/assets/116903730/985533d5-79fa-4a77-a0cb-177f29f63999)
+
+#### It will then starts with the President of the saved history and follow the ranking of players until the Scum, being the last one to start from this game
+![newRoundFirst](https://github.com/STELLY-02/G26_Hackathon2/assets/116903730/a76585cf-e7fb-429e-9f19-34b0666d1880)
+
+
+
 ## A Quick Demo of Our Game
-[Click on this to watch the video] ()
+[Click on this to watch the video]()
