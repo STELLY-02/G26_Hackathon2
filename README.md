@@ -165,4 +165,4 @@ This dynamic behavior of adding and removing cards aligns well with the nature o
 
 
 ## A Quick Demo of Our Game
-[Click on this to watch the video]()
+[Click on this to watch the video](https://youtu.be/PWvux6-k_Zc)
