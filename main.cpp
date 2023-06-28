@@ -44,11 +44,6 @@ int main() {
         cout << "Enter number of players: ";
         cin >> playerNum;
         cin.ignore();
-        while(playerNum<4 && playerNum>7){
-        	cout<<"This game is recommended to play between 4-7 people"<<endl;
-        	cout<<"Enter again the number of players";
-        	cin>> playerNum;
-		}
         PresidentGame game;
         game.SetPlayerNum(playerNum);
         game.StartNewGame();
