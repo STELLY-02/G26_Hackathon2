@@ -319,7 +319,7 @@ using namespace std;
         cout<<"                                  Round finished"<<endl;
         cout<<"====================================================================================="<<endl;
         cout<<"Congratulations: "<<endl;
-        cout << "tPresident is Player " << ranking[0] + 1 << "." << endl<<endl;
+        cout << "President is Player " << ranking[0] + 1 << "." << endl<<endl;
         cout<<"Unfortunately: "<<endl;
         cout << "Trash is Player " << ranking[numPlayers-1] + 1 << "." << endl;
     }
